@@ -1,1 +1,1 @@
-# p1
+**This is the first project from Dynamic Web Application course**
