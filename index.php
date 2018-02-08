@@ -7,6 +7,8 @@
 
 	<link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
 	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
+
+	<link href='css/main.css' rel='stylesheet'>
 </head>
 <body>
 	<div class="container">
