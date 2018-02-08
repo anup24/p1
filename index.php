@@ -18,9 +18,7 @@
 		<p>
 			I am Anup Shetye, currently working as an IT professonal in investment bank in south Boston.
 			I did my bachelors in electronics engineering from University of Mumbai and masters in business administration in Information Systems from NMIMS University.
-			This is my second course towards another masters degree and am looking forward to learning new.
-
-			In my free time, I read books and listen to good music.
+			This is my second course towards another masters degree and am looking forward to learning new. In my free time, I read books and listen to good music.
 		</p>
 		<h2>Random Quote</h2>
 	 <?php
