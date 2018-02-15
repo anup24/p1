@@ -5,4 +5,4 @@
 + Production domain URL: <http://p1.dwa15.site/>
 
 **Reference**
-+ http://davidmarotz.com/
++ http://davidmarotz.com/ - Quotes are taken from this portal
